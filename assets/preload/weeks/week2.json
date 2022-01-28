@@ -1,0 +1,44 @@
+{
+	"storyName": "Spooky!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mayor",
+		"spooky",
+		"gf"
+	],
+	"songs": [
+		[
+			"Vibin",
+			"mayor",
+			[
+				251,
+				111,
+				18
+			]
+		],
+		[
+			"Frightin",
+			"mayor",
+			[
+				251,
+				111,
+				18
+			]
+		],
+		[
+			"Spookin",
+			"mayor",
+			[
+				251,
+				111,
+				18
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Spook"
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Wait... are you a cat?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "I'm a cat!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "WE LOVE CATS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "I LOVE CATS TOO!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "YAY! LET'S PURRRARTY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "And spooky?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "And spooky!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "YAY!"
+		}
+	]
+}

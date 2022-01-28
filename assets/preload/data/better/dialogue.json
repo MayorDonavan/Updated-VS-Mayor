@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Phew... I think I'm feline better meow."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop bap boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "I agree, never doing that again!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "And hey, now that I'm better..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "How about one more song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Yay! I can't wait for you to hear this one!"
+		}
+	]
+}

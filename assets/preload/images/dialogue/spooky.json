@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		-40
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "SpookytalkIdle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SpookytalkIdle",
+			"anim": "Idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Spooky_Dialogue"
+}

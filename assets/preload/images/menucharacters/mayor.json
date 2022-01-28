@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Mayor_Up",
+	"idle_anim": "Mayor_Menu_Idle",
+	"position": [
+		140,
+		-56
+	],
+	"scale": 1,
+	"image": "Menu_Mayor"
+}

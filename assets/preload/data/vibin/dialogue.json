@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "IT'S SPOOKY TIME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "IT'S SPOOKY TIME!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "READY FOR SPOOKY?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "READY FOR SPOOKY!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "angry",
+			"expression": "Idle",
+			"text": "YEAH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "But first... let's vibe."
+		}
+	]
+}

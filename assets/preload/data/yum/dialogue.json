@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Thanks, BF! I caught a lot!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop bep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Yeah! Wanna do a quick song while I nom?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bap...!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Don't worry! I'll be totally fine!"
+		}
+	]
+}

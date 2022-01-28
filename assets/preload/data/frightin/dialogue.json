@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "That song sounded familiar... I loved it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Thanks! Ready for another?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Yeah! Can I go first this time?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Purrhaps..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Pleeeeease?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Mmmm... sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mayor",
+			"boxState": "normal",
+			"expression": "Idle",
+			"text": "Yay!"
+		}
+	]
+}

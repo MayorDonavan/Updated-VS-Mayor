@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"Miau",
+			"mayor",
+			[
+				27,
+				18,
+				18
+			]
+		],
+		[
+			"Found",
+			"mayor",
+			[
+				138,
+				43,
+				226
+			]
+		],
+		[
+			"Beans",
+			"mayor",
+			[
+				138,
+				43,
+				226
+			]
+		],
+		[
+			"Tuna",
+			"mayor",
+			[
+				22,
+				199,
+				108
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "mayor",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"mayor",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

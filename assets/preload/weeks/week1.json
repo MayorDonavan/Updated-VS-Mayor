@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"Feesh",
+			"mayor",
+			[
+				168,
+				109,
+				236
+			]
+		],
+		[
+			"Yum",
+			"mayor",
+			[
+				168,
+				109,
+				236
+			]
+		],
+		[
+			"Feesh Overload",
+			"mayor",
+			[
+				168,
+				109,
+				236
+			]
+		],
+		[
+			"Better",
+			"mayor",
+			[
+				168,
+				109,
+				236
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "mayor",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"mayor",
+		"bf",
+		"gf"
+	],
+	"storyName": "Meow!",
+	"weekName": "Mayor",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

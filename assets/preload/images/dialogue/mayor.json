@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		43,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "MayortalkIdle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "MayortalkIdle",
+			"anim": "Idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Mayorhungry",
+			"idle_offsets": [
+				3,
+				0
+			],
+			"idle_name": "Mayorhungry",
+			"anim": "Hungry",
+			"loop_offsets": [
+				3,
+				0
+			]
+		}
+	],
+	"image": "Mayor_Dialogue"
+}
